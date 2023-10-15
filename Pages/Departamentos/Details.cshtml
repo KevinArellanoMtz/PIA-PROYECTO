@@ -1,0 +1,32 @@
+﻿@page
+@model RPInventarios.Pages.Departamentos.DetailsModel
+
+@{
+    ViewData["Title"] = "¿Desea eliminar el departamento con nombre " + Model.Departamento.Nombre + "?";
+}
+
+<h4>@ViewData["Title"] </h4>
+<hr />
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Departamento.Nombre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Departamento.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Departamento.Descripcion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Departamento.Descripcion)
+
+    </dl>
+</div>
+<div class="col">
+    <div class="rol">
+        <input type="hidden" asp-for="Departamento.Id" />
+        <partial name="Acciones/_Delete"model="@Model.Departamento.Id" />
+    </div>
+</div>
