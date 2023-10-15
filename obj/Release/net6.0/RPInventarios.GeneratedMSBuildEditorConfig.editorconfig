@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RPInventarios
+build_property.RootNamespace = RPInventarios
+build_property.ProjectDir = C:\Users\luisa\Desktop\PIAdef\RPInventarios\RPInventarios\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\luisa\Desktop\PIAdef\RPInventarios\RPInventarios
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Departamentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0YW1lbnRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Departamentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0YW1lbnRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Departamentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0YW1lbnRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Departamentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0YW1lbnRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Departamentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0YW1lbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Marcas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFyY2FzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Marcas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFyY2FzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Marcas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFyY2FzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Marcas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFyY2FzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Marcas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFyY2FzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Partials/Acciones/_CrearBusqueda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlhbHNcQWNjaW9uZXNcX0NyZWFyQnVzcXVlZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Partials/Acciones/_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlhbHNcQWNjaW9uZXNcX0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Partials/Acciones/_Crud.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlhbHNcQWNjaW9uZXNcX0NydWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Partials/Acciones/_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlhbHNcQWNjaW9uZXNcX0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Partials/Acciones/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlhbHNcQWNjaW9uZXNcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Partials/Acciones/_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlhbHNcQWNjaW9uZXNcX0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisa/Desktop/PIAdef/RPInventarios/RPInventarios/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7ny1ndy3f6
